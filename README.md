@@ -170,18 +170,23 @@ It was found through analyzing the data, that all the models approached the same
 
 
 Dataset 1, Model 1, Augustine Ojo  
-![alt text](NN_data-Augustine.png "Dataset 1")
+![image](https://github.com/user-attachments/assets/060357f7-43b7-4d31-909a-f503e9639b6c)
+
+
+
 
 
 Dataset 1, Model 2, Nathan Bauer  
-![alt text](NN_data-Bauer.png "Dataset 1")
+![image](https://github.com/user-attachments/assets/6dbf054f-21c2-4ada-b686-e533b2b68629)
+
 
 
 
 Similarly, for the second data set...
 
 Dataset 2, model 1, Gustav van der Westhuizen  
-![alt text](NN_data-Gustav.png "Dataset 1")
+![image](https://github.com/user-attachments/assets/a18ee7c4-d0c4-4aee-b936-af0e1b6802ed)
+
 
 
 # Conclusions and Future Development  
